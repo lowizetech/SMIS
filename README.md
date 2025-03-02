@@ -55,18 +55,6 @@ The **Student Management Information System (SMIS)** is a **console-based CRUD a
    dotnet run
    ```
 
-## 📂 How to Add Images in GitHub
-If you already have images uploaded to GitHub, follow these steps to use them in your README:
-
-1. Go to your repository on GitHub.
-2. Open the `images/` folder (or create one if it doesn’t exist).
-3. Click on the image file you uploaded.
-4. Right-click on the image and **Copy Image Address (URL)**.
-5. Replace the placeholders in this README with the actual image URLs:
-   ```md
-   ![Main Menu](https://raw.githubusercontent.com/lowizetech/SMIS/main/images/main_menu.png)
-   ```
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
@@ -75,5 +63,6 @@ This project is licensed under the **MIT License**.
 ### 👨‍💻 Author
 **lowizetech**  
 🔗 [GitHub Profile](https://github.com/lowizetech)
+📧 Email: lowize.tech@gmail.com
 
 

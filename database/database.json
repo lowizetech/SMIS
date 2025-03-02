@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": 1234,
+    "name": "JUAN D. CRUZ",
+    "sex": "MALE",
+    "age": 19,
+    "address": "NEW YORK CITY, NEW YORK, USA",
+    "strand": "STEM"
+  },
+  {
+    "id": 1235,
+    "name": "KEVIN C. SUAREZ",
+    "sex": "MALE",
+    "age": 19,
+    "address": "NOWHERE, TOKYO CITY, JAPAN",
+    "strand": "ICT"
+  },
+  {
+    "id": 1236,
+    "name": "JACOB B. SCHWARTZ",
+    "sex": "FEMALE",
+    "age": 20,
+    "address": "ELSEWHERE, LONDON CITY, UK",
+    "strand": "ABM"
+  },
+  {
+    "id": 1237,
+    "name": "NICOLE C. REYES",
+    "sex": "FEMALE",
+    "age": 20,
+    "address": "TUBOD, LANAO DEL NORTE, PHILIPPINES",
+    "strand": "ABM"
+  }
+]
